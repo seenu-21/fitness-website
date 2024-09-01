@@ -31,10 +31,10 @@ npm.
 
 # Features
 
-1.Learn about different fitness programs, including strength training, cardio training, fat burning, and health fitness.
-2.Discover the benefits of choosing FitFusion for your fitness journey.
-3.Explore and select from various subscription plans, including premium, basic, and pro plans.
-4.Gain insight from testimonials provided by entrepreneurs, coaches, and satisfied customers.
+1.Learn about different fitness programs, including strength training, cardio training, fat burning, and health fitness,
+2.Discover the benefits of choosing FitFusion for your fitness journey,
+3.Explore and select from various subscription plans, including premium, basic, and pro plans,
+4.Gain insight from testimonials provided by entrepreneurs, coaches, and satisfied customers,
 5.Enjoy a fully responsive design to ensure optimal user experience across all devices.
 
 # License
