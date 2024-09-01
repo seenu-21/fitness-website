@@ -10,11 +10,11 @@
   gap: 2rem;
   flex-direction: column;
   text-transform: uppercase;
-  color: #fff;
+  color:#09ceb1;
 }
 
 .left-t > :nth-child(1) {
-  color: var(--orange);
+  color: #09ceb1;
   font-weight: bold;
 }
 

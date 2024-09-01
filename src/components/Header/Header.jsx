@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./Header.css";
-import Logo from "../../assets/logo.png";
 import Bars from "../../assets/bars.png";
 import { Link } from "react-scroll";
 
@@ -10,8 +9,7 @@ const Header = () => {
 
   return (
     <div className="header">
-      <img src={Logo} alt="" className="logo" />
-
+<br/>
       {menuOpen === false && mobile === true ? (
         <div
           style={{

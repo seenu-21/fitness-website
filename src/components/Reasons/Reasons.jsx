@@ -31,7 +31,7 @@ const Reasons = () => {
         <div className="details-r">
           <div>
             <img src={tick} alt=""></img>
-            <span>OVER 140+ EXPERT COACHES</span>
+            <span>OVER 12+ EXPERT COACHES</span>
           </div>
 
           <div>
@@ -46,24 +46,13 @@ const Reasons = () => {
 
           <div>
             <img src={tick} alt="" />
-            <span>RELIABLE PARTNERS</span>
+            <span>FLEXIBLE PROGRAMS</span>
           </div>
         </div>
 
-        <span
-          style={{
-            color: "var(--gray)",
-            fontWeight: "normal",
-          }}
-        >
-          OUR PARTNERS
-        </span>
+        
 
-        <div className="partners">
-          <img src={nb} alt="" />
-          <img src={adidas} alt="" />
-          <img src={nike} alt="" />
-        </div>
+        
       </div>
     </div>
   );

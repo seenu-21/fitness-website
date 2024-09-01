@@ -11,7 +11,7 @@
     font-weight: bold;
     font-size: 3rem;
     justify-content: center;
-    color: #fff;
+    color:#09ceb1;
     text-transform: uppercase;
     font-style: italic;
   }
@@ -27,14 +27,14 @@
     background-color: grey;
     padding: 2rem;
     gap: 1rem;
-    color: #fff;
+    color:black;
     justify-content: space-between;
   }
   
   .category>:nth-child(1) {
     width: 2rem;
     height: 2rem;
-    fill: #fff;
+    fill:#09ceb1;
   }
   
   .category>:nth-child(2) {
