@@ -23,11 +23,11 @@ A modern and responsive web application built with React.js and CSS. Designed to
 ![fit4](https://github.com/user-attachments/assets/69e50ee6-eb6c-4386-b0bf-42f0d2d96be7)
 
 # Technologies Used!
-HTML
-CSS
-JavaScript
-React JS
-npm
+HTML,
+CSS,
+JavaScript,
+React JS,
+npm.
 
 # Features
 
